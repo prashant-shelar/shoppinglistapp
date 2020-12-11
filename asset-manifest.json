@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/prashant-shelar/shoppinglistapp.git/static/css/main.106baaae.chunk.css",
+    "main.js": "/prashant-shelar/shoppinglistapp.git/static/js/main.c4f8976a.chunk.js",
+    "main.js.map": "/prashant-shelar/shoppinglistapp.git/static/js/main.c4f8976a.chunk.js.map",
+    "runtime-main.js": "/prashant-shelar/shoppinglistapp.git/static/js/runtime-main.b05280fb.js",
+    "runtime-main.js.map": "/prashant-shelar/shoppinglistapp.git/static/js/runtime-main.b05280fb.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/prashant-shelar/shoppinglistapp.git/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.01f45e3c.chunk.js": "/prashant-shelar/shoppinglistapp.git/static/js/2.01f45e3c.chunk.js",
+    "static/js/2.01f45e3c.chunk.js.map": "/prashant-shelar/shoppinglistapp.git/static/js/2.01f45e3c.chunk.js.map",
+    "static/js/3.8f432bb7.chunk.js": "/prashant-shelar/shoppinglistapp.git/static/js/3.8f432bb7.chunk.js",
+    "static/js/3.8f432bb7.chunk.js.map": "/prashant-shelar/shoppinglistapp.git/static/js/3.8f432bb7.chunk.js.map",
+    "index.html": "/prashant-shelar/shoppinglistapp.git/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/prashant-shelar/shoppinglistapp.git/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.106baaae.chunk.css.map": "/prashant-shelar/shoppinglistapp.git/static/css/main.106baaae.chunk.css.map",
+    "static/js/2.01f45e3c.chunk.js.LICENSE.txt": "/prashant-shelar/shoppinglistapp.git/static/js/2.01f45e3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b05280fb.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.01f45e3c.chunk.js",
+    "static/css/main.106baaae.chunk.css",
+    "static/js/main.c4f8976a.chunk.js"
+  ]
+}
